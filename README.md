@@ -5,13 +5,11 @@ Este proyecto es una aplicación web que permite gestionar una lista de amigos y
 ## 📌 Descripción
 La aplicación solicita una lista de amigos, la muestra en pantalla y permite realizar un sorteo aleatorio para asignar a cada participante su Amigo Secreto.
 
-## 🖼 Capturas de Pantalla
+# Lista de amigos:
+<img src="./imagenes/lista_amigos.png" alt="Lista de amigos" width="300">
 
-Lista de amigos:
-![Lista de amigos](./imagenes/lista_amigos.png)
-
-Resultado del sorteo:
-![Sorteo de amigo secreto](./imagenes/sorteo_amigo.png)
+# Resultado del sorteo:
+<img src="./imagenes/sorte_amigo.png" alt="Sorteo de amigo secreto" width="300">
 
 ## 🚀 Cómo usar
 1. Ingresa los nombres de los participantes.
